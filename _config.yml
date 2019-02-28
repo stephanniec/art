@@ -1,0 +1,19 @@
+# Site settings
+title:              Stephanie L. Chang
+email:              stephanniechang@gmail.com
+description:        Art Portfolio
+url:                https://stephanniec.github.io/art
+baseurl:            /art
+
+# File structure settings
+image_path:         /public/images
+
+# Build settings
+markdown:           kramdown
+permalink:          pretty
+
+# Collection definitions and settings
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/

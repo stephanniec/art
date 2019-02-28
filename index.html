@@ -1,0 +1,38 @@
+---
+layout: main
+title: Portfolio
+---
+
+<main id="portfolio">
+	<center><h1>Portfolio</h1></center><br>
+	<section>
+		<div id="portfolio-gallery">
+			{% assign sorted_pages = site.projects | sort:"path" %}
+			{% for project in sorted_pages %}
+			<div class="container">
+				<div class="aspect-ratio-keeper"> </div>
+				<div class="content">
+					<a href="{{ site.baseurl }}{{ project.url }}">
+						<span class="link-spanner"></span>
+
+						<div class="image-container"> 		<!-- Thumbnail -->
+							<div class="image-vertical-align-box" >
+									<img class="inner" src="{{ project.image }}">
+<div class="image-overlay">
+			<i class="fas fa-fish-3x"></i>
+</div>
+							</div>
+						</div>
+
+						<!-- portfolio modal title -->
+						<div class="inner-text">
+							<h2>{{ project.title }}</h2>
+						</div>
+
+					</a>
+				</div>
+			</div>
+			{% endfor %}
+		</div>
+	</section>
+</main>

@@ -1,0 +1,17 @@
+---
+layout: main
+---
+<main class="project">
+	<section id="contact-content">
+
+		<h1 id="project-title">{{ page.title }}</h1>
+		<h4 id="project-date">{{ page.date |  date: '%B %-d, %Y'}}</h4>
+
+
+		<center><img id="project-image" src="{{ page.image }}"></center> 	<!-- Thumbnail -->
+
+		{{ content }}
+
+	</section>
+
+</main>
