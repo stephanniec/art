@@ -12,8 +12,8 @@
   line-height: 1;
   color: #222}
 
-.fa:hover, .fas:hover, .fab:hover{ /*Icon hover color, icons only used as buttons*/ 
-  color: #84e8cb;
+.fa:hover, .fas:hover, .fab:hover{ /*Icon hover color, icons only used as buttons*/
+  color: #93e29c;
 }
 
 .fa-lg {

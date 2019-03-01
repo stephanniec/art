@@ -20,9 +20,10 @@ Stephanie is a student at the Animation Collaborative. She is interested in crea
   <tbody>
     <tr>
       <td>Photoshop (i.e Krita)<br> Oil Paint<br> Pencil<br> Ink</td>
-      <td>Autodesk CAD<br> SolidWorks<br> NX<br> OnShape</td>
+      <td>AutoCAD<br> SolidWorks<br> NX<br> Onshape</td>
       <td>3D Printing<sup>[1]</sup><br>
-          Laser Cutting/Scanning<sup>[2]</sup><br>
+          Laser Cutting<sup>[2]</sup><br>
+          Laser Scanning<br>
           CNC Milling<sup>[3]</sup><br>
           Foamcore</td>
       <td>Python<br> C<br> Linux<br> Git</td>
@@ -37,4 +38,6 @@ Stephanie is a student at the Animation Collaborative. She is interested in crea
 </sup>
 
 ### Resume
-<i class="fas fa-file-download fa-4x"></i>
+  <a href="/art/files/docs/ChangStephanie_Art_Resume.pdf">
+  <i class="fas fa-file-download fa-4x"></i>
+  </a>
