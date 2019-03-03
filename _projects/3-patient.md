@@ -1,14 +1,15 @@
 ---
 layout: project
-title: Pediatrics
-image: http://unsplash.it/400?random
+title: Patients
+image: patients.jpg
 date: February 5, 2019
 permalink: "project-3.html"
 ---
-
-<br><center>Brainstorming different types of young patients</center>
+<center><img src="{{ site.baseurl }}/files/pics/{{ page.image }}" style="max-width:800px"></center>
+<center>Idea exploration for various pediatric inpatients. From left to right, a girl recovering from surgery, a boy with many allergies, and a girl with fragile bones.</center>
 
 <!-- Intermodal Navigation -->
+<br>
 <center>
   <table>
     <thead>

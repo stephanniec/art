@@ -1,14 +1,15 @@
 ---
 layout: project
 title: Frankenstein Remix Exploration
-image: http://unsplash.it/400?random
+image: franken_remix.jpg
 date: February 19, 2019
 permalink: "project-2.html"
 ---
-
-<br><center>Shape exploration for Dr. Frankenstein and monster redesign</center>
+<center><img src="{{ site.baseurl }}/files/pics/{{ page.image }}" style="max-width:1400px"></center>
+<center>Shape exploration for Dr. Frankenstein and monster redesign.</center>
 
 <!-- Intermodal Navigation -->
+<br>
 <center>
   <table>
     <thead>

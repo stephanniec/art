@@ -1,14 +1,25 @@
 ---
 layout: project
 title: Car
-image: http://unsplash.it/400?random
+image: cad_car_combo.png
 date: June 10, 2017
 permalink: "project-6.html"
 ---
+<center><img src="{{ site.baseurl }}/files/pics/{{ page.image }}" style="max-width:900px"></center>
+<center>CAD models of custom parts built for a self-driving car prototype</center>
 
-<br><center>3D models of a self-driving car's mechanical components</center>
+### About
+Hardware for a line following robot was created for the 2017 Tech Cup at Northwestern. A housing unit was fabricated out of laser cut acrylic to protect circuitry. Brackets were 3D printed out of PLA to fix motors to the car chassis. Wheels were 3D printed out of PLA to carry the vehicle around a gray racetrack.
+
+`Tools used: Onshape, Laser cutter, 3D printer`
+
+### The Final Product
+<center><img src="{{ site.baseurl }}/files/pics/line_follow_car.png" style="max-width:900px"></center>
+<center>The assembled car</center>
+In the final prototype, 2" wheels were used instead of the 4" ones to help the car generate more torque at lower motor velocities.
 
 <!-- Intermodal Navigation -->
+<br>
 <center>
   <table align>
     <thead>

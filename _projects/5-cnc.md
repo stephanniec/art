@@ -1,14 +1,24 @@
 ---
 layout: project
 title: Daydream
-image: http://unsplash.it/400?random
+image: cnc_model.png
 date: October 24, 2017
 permalink: "project-5.html"
 ---
+<center><img src="{{ site.baseurl }}/files/pics/{{ page.image }}" style="max-width:650px"></center>
+<center>CAD model of an aluminum sculpture</center>
 
-<br><center>3D model of a sculpture carved out of aluminum using a CNC mill</center>
+### About
+The sculpture is a 4” x 4” x 1.75” aluminum block which was carved for a larger project. It features the extruded silhouettes of a Studio Ghibli's Totoro and a small child dangling from a leaf.
+
+`Tools used: SolidWorks, NX, Bandsaw, CNC Mill`
+
+### The Final Product
+<center><img src="{{ site.baseurl }}/files/pics/cnc_final.jpg" style="max-width:650px"></center>
+<center>The milled sculpture</center>
 
 <!-- Intermodal Navigation -->
+<br>
 <center>
   <table align>
     <thead>

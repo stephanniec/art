@@ -2,13 +2,13 @@
 layout: project
 title: Sanctuary
 image: http://unsplash.it/400?random
-date: September 26, 2014
+date: October 11, 2018
 permalink: "project-8.html"
 ---
-
-<br><center>A digital painting of a mossy hideaway</center>
+<center>A mossy hideaway</center>
 
 <!-- Intermodal Navigation -->
+<br>
 <center>
   <table>
     <thead>
