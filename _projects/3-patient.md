@@ -2,10 +2,10 @@
 layout: project
 title: Patients
 image: patients.jpg
-date: February 5, 2019
+date: February 12, 2019
 permalink: "project-3.html"
 ---
-<center><img src="{{ site.baseurl }}/files/pics/{{ page.image }}" style="max-width:800px"></center>
+<center><img src="{{ site.baseurl }}/files/pics/{{ page.image }}" style="max-width:70%"></center>
 <center>Idea exploration for various pediatric inpatients. From left to right, a girl recovering from surgery, a boy with many allergies, and a girl with fragile bones.</center>
 
 <!-- Intermodal Navigation -->

@@ -5,7 +5,7 @@ image: cad_box.png
 date: November 29, 2017
 permalink: "project-7.html"
 ---
-<center><img src="{{ site.baseurl }}/files/pics/{{ page.image }}" style="max-width:1400px"></center>
+<center><img src="{{ site.baseurl }}/files/pics/{{ page.image }}" style="max-width:80%"></center>
 <center>CAD model of an acrylic display case for an aluminum sculpture</center>
 
 ### About

@@ -1,13 +1,15 @@
 ---
 layout: project
-title: Project 4
-image: http://unsplash.it/400?random
-date: September 25, 2014
+title: Alpine Climber
+image: alpine.jpg
+date: March 3, 2019
 permalink: "project-4.html"
 ---
-
+<center><img src="{{ site.baseurl }}/files/pics/{{ page.image }}" style="max-width:70%"></center>
+<center>A mountain climber. From left to right, a facial closeup, base camp attire, summit attire.</center>
 
 <!-- Intermodal Navigation -->
+<br>
 <center>
   <table>
     <thead>
