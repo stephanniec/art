@@ -5,7 +5,7 @@ image: flamingo.jpg
 date: January 29, 2019
 permalink: "project-8.html"
 ---
-<center><img src="{{ site.baseurl }}/files/pics/{{ page.image }}" style="max-width:80%"></center>
+<center><img src="{{ site.baseurl }}/files/pics/{{ page.image }}" style="max-width:70%"></center>
 <center>A yoga class for young flamingos</center>
 
 <!-- Intermodal Navigation -->

@@ -5,7 +5,7 @@ image: cnc_model.png
 date: October 24, 2017
 permalink: "project-5.html"
 ---
-<center><img src="{{ site.baseurl }}/files/pics/{{ page.image }}" style="max-width:650px"></center>
+<center><img src="{{ site.baseurl }}/files/pics/{{ page.image }}" style="max-width:600px"></center>
 <center>CAD model of an aluminum sculpture</center>
 
 ### About
@@ -14,7 +14,7 @@ The sculpture is a 4” x 4” x 1.75” aluminum block which was carved for a l
 `Tools used: SolidWorks, NX, Bandsaw, CNC Mill`
 
 ### The Final Product
-<center><img src="{{ site.baseurl }}/files/pics/cnc_final.jpg" style="max-width:650px"></center>
+<center><img src="{{ site.baseurl }}/files/pics/cnc_final.jpg" style="max-width:600px"></center>
 <center>The milled sculpture</center>
 
 <!-- Intermodal Navigation -->

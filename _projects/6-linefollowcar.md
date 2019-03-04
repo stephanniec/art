@@ -5,7 +5,7 @@ image: cad_car_combo.png
 date: June 10, 2017
 permalink: "project-6.html"
 ---
-<center><img src="{{ site.baseurl }}/files/pics/{{ page.image }}" style="max-width:900px"></center>
+<center><img src="{{ site.baseurl }}/files/pics/{{ page.image }}" style="max-width:800px"></center>
 <center>CAD models of custom parts built for a self-driving car prototype</center>
 
 ### About
@@ -14,7 +14,7 @@ Hardware for a line following robot was created for the 2017 Tech Cup at Northwe
 `Tools used: Onshape, Laser cutter, 3D printer`
 
 ### The Final Product
-<center><img src="{{ site.baseurl }}/files/pics/line_follow_car.png" style="max-width:900px"></center>
+<center><img src="{{ site.baseurl }}/files/pics/line_follow_car.png" style="max-width:800px"></center>
 <center>The assembled car</center>
 In the final prototype, 2" wheels were used instead of the 4" ones to help the car generate more torque at lower motor velocities.
 

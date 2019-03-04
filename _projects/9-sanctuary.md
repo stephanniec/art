@@ -1,10 +1,11 @@
 ---
 layout: project
 title: Sanctuary
-image: http://unsplash.it/400?random
+image: sanctuary.jpg
 date: October 11, 2018
 permalink: "project-9.html"
 ---
+<center><img src="{{ site.baseurl }}/files/pics/{{ page.image }}" style="max-width:60%"></center>
 <center>A mossy hideaway</center>
 
 <!-- Intermodal Navigation -->
