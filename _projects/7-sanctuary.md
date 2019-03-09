@@ -3,7 +3,7 @@ layout: project
 title: Sanctuary
 image: sanctuary.jpg
 date: October 11, 2018
-permalink: "project-9.html"
+permalink: "project-7.html"
 ---
 <center><img src="{{ site.baseurl }}/files/pics/{{ page.image }}" style="max-width:60%"></center>
 <center>A mossy hideaway</center>
@@ -14,7 +14,7 @@ permalink: "project-9.html"
   <table>
     <thead>
       <tr>
-        <a href="{{site.baseurl}}/project-8.html"><i class="fas fa-chevron-circle-left fa-3x"></i></a>
+        <a href="{{site.baseurl}}/project-6.html"><i class="fas fa-chevron-circle-left fa-3x"></i></a>
       </tr>
     </thead>
   </table>
