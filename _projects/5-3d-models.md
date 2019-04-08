@@ -6,7 +6,7 @@ date: June 2, 2017
 permalink: "project-5.html"
 ---
 ## Overview
-The following 3 projects demonstrate instances where design was used to create 3D models, and ultimately, physical products.
+The following 3 projects demonstrate instances where design was used to create 3D models for physical products.
 
 ## Table of Contents
 * <a href="#car">Project Self-Driving Robot<br>
@@ -22,7 +22,7 @@ The following 3 projects demonstrate instances where design was used to create 3
 
 Hardware for a line following robot was created for the 2017 Tech Cup at Northwestern. A housing unit was fabricated out of laser cut acrylic to protect circuitry. Brackets were 3D printed out of PLA to fix motors to the car chassis. Wheels were 3D printed out of PLA to carry the vehicle around a gray racetrack.
 
-<center><img src="{{ site.baseurl }}/files/pics/line_follow_car.png" style="max-width:800px"></center>
+<center><img src="{{ site.baseurl }}/files/pics/line_follow_car.jpg" style="max-width:800px"></center>
 <center>The assembled car</center>
 In the final prototype, 2" wheels were used instead of the 4" ones to help the car generate more torque at lower motor velocities.
 
@@ -45,7 +45,7 @@ In the final prototype, 2" wheels were used instead of the 4" ones to help the c
 
 The display case is a 10” x 10” x 4” acrylic box with a cosmetic lid. It consists of 18 pieces that snugly slot together like a jigsaw puzzle. Scaffolding inside the box supports the weight of the an aluminum centerpiece along 5 of its 6 faces. Balsa wood was used to verify if the smallest features could be cut. Acrylic with a thickness of 0.25” was used for the final product.
 
-<center><img src="{{ site.baseurl }}/files/pics/box.png" style="max-width:700px"></center>
+<center><img src="{{ site.baseurl }}/files/pics/box.jpg" style="max-width:700px"></center>
 <center>The assembled box with the aluminum centerpiece</center>
 
 <!-- Intermodal Navigation -->

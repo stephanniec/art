@@ -1,0 +1,4 @@
+# Directories to ignore
+_site/
+
+# Files to ignore
