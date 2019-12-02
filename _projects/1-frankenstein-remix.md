@@ -1,8 +1,8 @@
 ---
 layout: project
 title: Frankenstein Remix
-image: franken_remix2.jpg
-date: February 26, 2019
+image:
+date: February 19, 2019
 permalink: "project-1.html"
 ---
 <center><img src="{{ site.baseurl }}/files/pics/{{ page.image }}" style="max-width:80%"></center>

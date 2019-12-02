@@ -1,12 +1,12 @@
 ---
 layout: project
-title: Frankenstein Remix Exploration
-image: franken_remix.jpg
-date: February 19, 2019
+title: Patients
+image: patients.jpg
+date: February 12, 2019
 permalink: "project-2.html"
 ---
-<center><img src="{{ site.baseurl }}/files/pics/{{ page.image }}" style="max-width:80%"></center>
-<center>Shape exploration for Dr. Frankenstein and monster redesign</center>
+<center><img src="{{ site.baseurl }}/files/pics/{{ page.image }}" style="max-width:70%"></center>
+<center>Character lineup. From left to right, a girl recovering from surgery, a boy with many allergies, and a girl with fragile bones.</center>
 
 <!-- Intermodal Navigation -->
 <br>

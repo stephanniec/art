@@ -1,19 +1,19 @@
 ---
 layout: project
-title: 3D Models
+title: 3D Models - CAD/CAM
 image: cad_car_combo.png
 date: June 2, 2017
-permalink: "project-5.html"
+permalink: "project-6.html"
 ---
 ## Overview
-The following 3 projects demonstrate instances where design was used to create 3D models for physical products.
+The following 3 projects demonstrate instances where 3D modeling was used to create physical products.
 
 ## Table of Contents
 * <a href="#car">Project Self-Driving Robot<br>
 * <a href="#cnc">Project Daydream</a><br>
 * <a href="#box">Project Tribute</a>
 
-<center><h2 id="car">Project Self-Driving Robot</h2></center>
+<h2 id="car">Project Self-Driving Robot</h2>
 `Date: June 2 - 10, 2017` <br>
 `Tools used: Onshape, Laser cutter, 3D printer`
 
@@ -26,7 +26,7 @@ Hardware for a line following robot was created for the 2017 Tech Cup at Northwe
 <center>The assembled car</center>
 In the final prototype, 2" wheels were used instead of the 4" ones to help the car generate more torque at lower motor velocities.
 
-<center><h2 id="cnc">Project Daydream</h2></center>
+<h2 id="cnc">Project Daydream</h2>
 `Date: October 15 - 24, 2017` <br>
 `Tools used: SolidWorks, NX, Bandsaw, CNC Mill`
 
@@ -36,7 +36,7 @@ In the final prototype, 2" wheels were used instead of the 4" ones to help the c
 <center><img src="{{ site.baseurl }}/files/pics/cnc_final.jpg" style="max-width:600px"></center>
 <center>The milled product</center>
 
-<center><h2 id="box">Project Tribute</h2></center>
+<h2 id="box">Project Tribute</h2>
 `Date: November 26 - 29, 2017` <br>
 `Tools used: SolidWorks, Inkscape, Laser cutter`
 
@@ -54,8 +54,7 @@ The display case is a 10” x 10” x 4” acrylic box with a cosmetic lid. It c
   <table align>
     <thead>
       <tr>
-        <a href="{{site.baseurl}}/project-4.html"><i class="fas fa-chevron-circle-left fa-3x"></i></a>
-        <a href="{{site.baseurl}}/project-6.html"><i class="fas fa-chevron-circle-right fa-3x"></i></a>
+        <a href="{{site.baseurl}}/project-5.html"><i class="fas fa-chevron-circle-left fa-3x"></i></a>
       </tr>
     </thead>
   </table>
