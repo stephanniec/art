@@ -6,8 +6,16 @@ label, caption {
   margin: 0;
   padding: 0; }
 
-a:hover, a:focus, a:active, a.active {
+a:link {
+  color: #75B47C; /*unvisited link*/
+}
+
+a:hover, a:focus, a:active {
   color: #93e29c;  /*text link hover color*/
+}
+
+a:visited {
+  color: #222;
 }
 
 table {
