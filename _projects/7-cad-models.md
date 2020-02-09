@@ -3,7 +3,7 @@ layout: project
 title: 3D Models - CAD/CAM
 image: cad_car_combo.png
 date: June 2, 2017
-permalink: "project-6.html"
+permalink: "project-7.html"
 ---
 ## Overview
 The following 3 projects demonstrate instances where 3D modeling was used to create physical products.
@@ -54,7 +54,8 @@ The display case is a 10” x 10” x 4” acrylic box with a cosmetic lid. It c
   <table align>
     <thead>
       <tr>
-        <a href="{{site.baseurl}}/project-5.html"><i class="fas fa-chevron-circle-left fa-3x"></i></a>
+        <a href="{{site.baseurl}}/project-6.html"><i class="fas fa-chevron-circle-left fa-3x"></i></a>
+        <a href="{{site.baseurl}}/project-1.html"><i class="fas fa-chevron-circle-right fa-3x"></i></a>
       </tr>
     </thead>
   </table>

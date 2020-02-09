@@ -3,7 +3,7 @@ layout: project
 title: 3D Models - Maya
 image: train1_small.jpg
 date: July 8, 2019
-permalink: "project-5.html"
+permalink: "project-6.html"
 ---
 `Art directed by Luis Labrador`
 
@@ -33,8 +33,8 @@ permalink: "project-5.html"
   <table>
     <thead>
       <tr>
-        <a href="{{site.baseurl}}/project-4.html"><i class="fas fa-chevron-circle-left fa-3x"></i></a>
-        <a href="{{site.baseurl}}/project-6.html"><i class="fas fa-chevron-circle-right fa-3x"></i></a>
+        <a href="{{site.baseurl}}/project-5.html"><i class="fas fa-chevron-circle-left fa-3x"></i></a>
+        <a href="{{site.baseurl}}/project-7.html"><i class="fas fa-chevron-circle-right fa-3x"></i></a>
       </tr>
     </thead>
   </table>

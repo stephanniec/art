@@ -3,9 +3,10 @@ layout: about
 path: /about
 url: index.html
 ---
+<center><img src="{{ site.baseurl }}/files/pics/me_small.jpg" style="max-width:50%"></center>
 
 ### Overview
-Stephanie is a student at the Animation Collaborative. She is interested in creating compelling character designs for animated films and games. Currently, she is actively searching for apprenticeships and job opportunities. Feel free to get in touch!     
+Stephanie is a student at the Animation Collaborative. She is interested in developing compelling characters for animated films and games. Currently, she is actively searching for apprenticeships and job opportunities. Feel free to get in touch!     
 
 ### Skills
 <table align="center">
@@ -19,7 +20,7 @@ Stephanie is a student at the Animation Collaborative. She is interested in crea
   </thead>
   <tbody>
     <tr>
-      <td>Digital Paint (Procreate, Krita)<br> Oil Paint<br> Pencil</td>
+      <td>Procreate<br> Krita<br> Oil Paint<br> Pencil</td>
       <td>Maya<br> AutoCAD<br> SolidWorks<br> NX<br> Onshape</td>
       <td>3D Printing<sup>[1]</sup><br>
           Laser Cutting<sup>[2]</sup><br>
