@@ -8,7 +8,6 @@ permalink: "project-1.html"
 Project ongoing...
 ## Setting Overview
 * Two years after a 37-year-long multinational war
-* Humans are no longer at the top of the food chain
 * Large swatches of greenery teeming with vicious predators and noxious plants now separate one pocket of humanity from the next
 * To survive, vestigial and fledgling nations are constantly clashing over resources and military leverage
 * Every settlement (big or small) is its own sovereign entity
@@ -29,7 +28,7 @@ Del is the youngest (but not the newest) resident of The Farm. He is named after
 
 ### Luca (13)
 <center><img src="{{ site.baseurl }}/files/pics/fftt/bs1_small.png" style="max-width:70%"></center>
-Luca is a runaway child soldier who is wanted by human traffickers and military programs seeking to pad their pockets and dwindling troops respectively. Although he has never been deployed to the front officially, he has seen his fair share of bloodshed: he was the top ranked trainee at a notable mercenary camp where students were encouraged to fight to the death, and often attached to special operations teams upon graduation. Although he is tired of violence, years of growing up in an controlled, ruthless environment where mission goals are prioritized over lives (innocent or not) have skewed the development of his moral compass.   
+Luca is an ex-child soldier who is wanted by human traffickers and military programs seeking to pad their pockets and dwindling troops respectively. Although he has never been deployed to the front officially, he has seen his fair share of bloodshed: he used to be the top ranked trainee at a notable mercenary camp where students were encouraged to fight to the death, and often attached to special operations teams upon graduation. While he is tired of violence, years of growing up in a controlled, ruthless environment has greatly skewed his moral compass. 
 
 <center><img src="{{ site.baseurl }}/files/pics/fftt/bs2_small.png" style="max-width:70%"></center>
 
