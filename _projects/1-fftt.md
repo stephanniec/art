@@ -1,7 +1,7 @@
 ---
 layout: project
 title: A Forest for the Trees
-image:
+image: /fftt/bs1_small.png
 date: May 4, 2019
 permalink: "project-1.html"
 ---
@@ -15,27 +15,29 @@ Project ongoing...
 * It no longer matters if a person is young, old, rich, or poor and etc. Here, only the strong survive.     
 
 ## Exploration - The Farm Sanctuary
-<!-- The Farm -->
-<center><img src="{{ site.baseurl }}/files/pics/{{ page.image }}" style="max-width:70%"></center>
-<center>Permanent Residents of The Farm</center>
+<!-- Insert gen exploration of farm permanent residents -->
 
+### Delphinium "Del" Elatum (4)
 <center><img src="{{ site.baseurl }}/files/pics/fftt/del.gif" style="max-width:70%"></center>
-<center>Delphinium "Del" Elatum (4)</center><br>
-Del is the youngest resident of The Farm. He is named after the vibrant flower species; his name was randomly picked out of an old plant guide when the owner of the refuge ran out of monikers of all the nameless kids passing through. He likes the smell of pine and hoards dried sprigs in a small cloth bag. He also has a tendency to bite people.
+Del is the youngest (but not the newest) resident of The Farm. He is named after the vibrant flower species; his name was randomly picked out of an old plant guide when the owner of the refuge ran out of monikers for all the nameless kids passing through.
 
 <center><img src="{{ site.baseurl }}/files/pics/fftt/del1_small.png" style="max-width:70%"></center>
 <center>Del rough drafts.</center>
 
-## Exploration - Fugitives
+## Exploration - Wandering Fugitives
 <!-- Satellite Duo -->
-<center>Luca (13)</center><br>
-Luca is a former child soldier who is on the run from human traffickers and military programs seeking to pad their pockets and dwindling troops respectively. He is a transfemoral amputee. Although he has never been deployed to the front officially, he has seen his fair share of bloodshed: he was the top ranked trainee in an elite program where students were encouraged to fight to the death, and often attached to special operations teams upon graduation. As a result, his moral compass is very skewed.   
 
+### Luca (13)
 <center><img src="{{ site.baseurl }}/files/pics/fftt/bs1_small.png" style="max-width:70%"></center>
+Luca is a runaway child soldier who is wanted by human traffickers and military programs seeking to pad their pockets and dwindling troops respectively. Although he has never been deployed to the front officially, he has seen his fair share of bloodshed: he was the top ranked trainee at a notable mercenary camp where students were encouraged to fight to the death, and often attached to special operations teams upon graduation. Although he is tired of violence, years of growing up in an controlled, ruthless environment where mission goals are prioritized over lives (innocent or not) have skewed the development of his moral compass.   
 
 <center><img src="{{ site.baseurl }}/files/pics/fftt/bs2_small.png" style="max-width:70%"></center>
 
 <center><img src="{{ site.baseurl }}/files/pics/fftt/bs3_small.png" style="max-width:70%"></center>
+
+<center><img src="{{ site.baseurl }}/files/pics/fftt/bsold_small.png" style="max-width:70%"></center>
+<center>Luca rough drafts.</center>
+
 <!-- Intermodal Navigation -->
 <br>
 <center>

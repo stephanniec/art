@@ -7,9 +7,6 @@ permalink: "project-3.html"
 ---
 Project ongoing...
 
-### Setting Overview
-Years after patissier Viktor Frankenstein is awarded his second Michelin star, he finds himself crumbling under the immense pressure to create increasingly inventive delicacies. When he is forced to declare bankruptcy, he closes shop and travels home to the Bavarian countryside for the first time in 25 years. In the years that follow, Viktor leads a secluded life punctured only by the occasional visit to the village square for groceries. This is where he meets Hugo, the timid son of a local butcher whose joy and talent for baking remind Viktor of why he fell in love with cooking in the first place.
-
 ### Exploration
 <center><img src="{{ site.baseurl }}/files/pics/{{ page.image }}" style="max-width:80%"></center>
 
